@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/donor"
+        android:title="Donor" />
+    <item
+        android:id="@+id/reciever"
+        android:title="Receiver" />
+    <item
+        android:id="@+id/stock"
+        android:title="Stock Managment" />
+    <item
+        android:id="@+id/remainder"
+        android:title="Remaining Days of Donors" />
+    <item
+        android:id="@+id/logout"
+        android:title="LogOut" />
+
+
+</menu>
